@@ -1,6 +1,6 @@
-# Ethereum Dapp Example
+# Ethereum Dapp Template
 
-This is an example about the Ethereum Dapp.
+This is an example about the Ethereum Dapp Template.
 
 ## I. Required
 
@@ -22,8 +22,8 @@ This is an example about the Ethereum Dapp.
 ### 1. Git clone
 
 ~~~bash
-    git clone https://github.com/Vilisag/ethereum-dapp-helloworld.git
-    cd ethereum-dapp-helloworld
+    git clone https://github.com/Vilisag/ethereum-dapp-template.git
+    cd ethereum-dapp-template
 ~~~
 
 ### 2. Install `NodeJs` packages

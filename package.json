@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Vilisag/ethereum-dapp-helloworld.git"
+    "url": "git+https://github.com/Vilisag/ethereum-dapp-template.git"
   },
   "keywords": [
     "Dapp",
@@ -29,9 +29,9 @@
   "author": "Nguyen Anh Vu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Vilisag/ethereum-dapp-helloworld/issues"
+    "url": "https://github.com/Vilisag/ethereum-dapp-template/issues"
   },
-  "homepage": "https://github.com/Vilisag/ethereum-dapp-helloworld#readme",
+  "homepage": "https://github.com/Vilisag/ethereum-dapp-template#readme",
   "dependencies": {
     "bootstrap": "^4.1.3",
     "jquery": "^3.3.1",
